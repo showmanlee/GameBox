@@ -18,5 +18,26 @@
     <ClCompile Include="Main.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Tictactoe.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Tresure.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Baseball.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Bingo.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="dice.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="dragon.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="road.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
